@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "sdk_library_metadata",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.10.0-75.2.beta",
+  "pubCache": "file:///C:/Users/lenov/AppData/Local/Pub/Cache"
+}

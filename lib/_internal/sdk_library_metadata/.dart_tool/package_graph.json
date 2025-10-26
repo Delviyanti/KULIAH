@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "sdk_library_metadata"
+  ],
+  "packages": [
+    {
+      "name": "sdk_library_metadata",
+      "version": "0.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
