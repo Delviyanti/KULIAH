@@ -1,4 +1,4 @@
-// Program Aplikasi Sederhana Pemesanan Transportasi "Smartride"
+// Program Aplikasi Sederhana Pemesanan Transportasi Smartride
 
 abstract class Transportasi {
   String id, nama;
